@@ -1,4 +1,0 @@
-Nombre de la mascota: pepito
-Cantidad de comida: 100
-Tiempo de escaneo: 12
-Resultado: Rellenando completamente
