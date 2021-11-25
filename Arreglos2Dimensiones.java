@@ -24,7 +24,6 @@ public class Arreglos2Dimensiones
             acumuladorDeEdades = acumuladorDeEdades + edades[j];
         }
         double promedio= acumuladorDeEdades/edades.length;
-        System.out.println(promedio);
         return promedio;
 
     }
