@@ -1,0 +1,4 @@
+Nombre de la mascota: Canelita
+Cantidad de comida: 100g
+Tiempo de escaneo: 5h
+Nivel de alimento: Bol lleno

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Actuador
+comment1.params=
+comment1.target=Actuador()
+comment1.text=MODULO\ ACTUADOR\ **
+comment2.params=cantidad\ tiempo
+comment2.target=java.lang.String\ verificarDatos(int,\ int)
+numComments=3

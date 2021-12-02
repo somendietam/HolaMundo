@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Visualizacion
+comment1.params=
+comment1.target=Visualizacion()
+comment1.text=MODULO\ VISUALIZACION\ **
+comment2.params=nombre\ cantidad\ tiempo\ nivelAlimento
+comment2.target=void\ mostrarDatos(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=3

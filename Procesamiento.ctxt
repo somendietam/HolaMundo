@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Procesamiento
+comment1.params=
+comment1.target=Procesamiento()
+comment1.text=MODULO\ PROCESAMIENTO**
+comment2.params=nivelAlimento
+comment2.target=java.lang.String\ rellenar(java.lang.String)
+numComments=3
